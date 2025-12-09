@@ -69,13 +69,9 @@ I build AI-driven applications, from conversational agents to MLOps pipelines â€
 
 <h3 align="left">ðŸ“Š GitHub Stats:</h3>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KratuGautam99&show_icons=true&locale=en&layout=compact&theme=radical" alt="KratuGautam" />
+<p align="left">
+  <img src="https://kasroudra-stats-card.onrender.com/user?user=Kratugautam99&theme=vision-friendly-dark" alt="GitHub Stats" />
 </p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=KratuGautam99&show_icons=true&locale=en&theme=radical" alt="KratuGautam" /></p>
-
-<br><br><br>
 
 ---
 
