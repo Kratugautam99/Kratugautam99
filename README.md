@@ -78,16 +78,15 @@ I build AI-driven applications, from conversational agents to MLOps pipelines â€
 <h3 align="left">ğŸŒ Connect with Me:</h3>
 
 <p align="left">
-<a href="www.linkedin.com/in/kratugautam27082005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kratu-gautam" height="35" width="45" /></a>
+<a href="https://www.linkedin.com/in/kratugautam27082005/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kratu-gautam" height="35" width="45" /></a>
 <a href="https://github.com/KratuGautam99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="35" width="45" /></a>
-<a href="mailto:kratugautam99@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="35" width="45" /></a>
+<a href="mailto:kratugautam99@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="35" width="45" /></a>
 <!--<a href="https://kratu-gautam-portfolio.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="portfolio" height="35" width="45" /></a>
 <a href="https://www.leetcode.com/kratu_gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>-->
 <a href="https://www.kaggle.com/kratugautam" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
 <a href="https://hub.docker.com/repositories/kratuzen" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker.svg" alt="docker" height="90" width="90" />
 </a>
-
 </p>
 
 ---
