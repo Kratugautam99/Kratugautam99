@@ -22,24 +22,25 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 
 ---
 
-<h3 align="left">🧩 My Ecosystem of Projects:</h3>
+<h3 align="left">🧩 My Ecosystem of Repositories:</h3>
 
 > 🚀 <b>Wisdom-Primary-Repo</b> —> Learning Hub for Python, SQL, DSA & Data Science  
+> 🦈 <b>Global-Shark-Attack-Project</b> —> Flask ML app predicting shark-attack risk (High/Low)  
+> 💻 <b>Laptop-Cost-Evaluation-Project</b> —> ML-powered web app to predict laptop market prices  
 > 💬 <b>LogicLink-Project</b> —> Conversational AI Chatbot powered by TinyLlama  
 > 📄 <b>Scriptoria-Project</b> —> AI-powered framework for intelligent document parsing & annotation  
 > 🤖 <b>Cryptrizx-Binance-Bot-Project</b> —> Automated Binance trading bot with CLI & GUI support  
-> 🦈 <b>Global-Shark-Attack-Project</b> —> Flask ML app predicting shark-attack risk (High/Low)  
-> 💻 <b>Laptop-Cost-Evaluation-Project</b> —> ML-powered web app to predict laptop market prices  
 > 🍔 <b>Foodie-Guru-Agent-Project</b> —> Conversational AI for intelligent fast-food recommendations  
 > 📡 <b>Near-Field-Communication-Project</b> —> NFC detection & Web-NFC experiments with Android/Kotlin  
-> 🧠 <b>Agentic-AI-Practice</b> —> Playground for building autonomous, goal-directed AI agents  
+> 📈 <b>Machine-Learning-Practice</b> —> Classic ML algorithms & projects in structured Jupyter notebooks  
+> 🧬 <b>Deep-Learning-Practice</b> —> Deep learning resources, NLP, and FreeCodeCamp challenges  
 > 🔗 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking  
+> 🧠 <b>Agentic-AI-Practice</b> —> Playground for building autonomous, goal-directed AI agents
+> 👁️ <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials
 > ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and application development  
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering OOP, STL, templates, and recursion  
-> 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources (DBMS, Web Tech, etc.)  
-> 🧬 <b>Deep-Learning-Practice</b> —> Deep learning resources, NLP, and FreeCodeCamp challenges  
 > 📊 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
-> 📈 <b>Machine-Learning-Practice</b> —> Classic ML algorithms & projects in structured Jupyter notebooks  
+> 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources (DBMS, Web Tech, etc.)  
 
 
 ---
