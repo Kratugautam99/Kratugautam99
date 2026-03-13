@@ -88,7 +88,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines â€
 <a href="https://www.leetcode.com/kratu_gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>-->
 <a href="https://www.kaggle.com/kratugautam" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
 <a href="https://hub.docker.com/repositories/kratuzen" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker.svg" alt="docker" height="90" width="90" /></a>
-<a href="https://huggingface.co/KraTUZen" target="_blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" height="50" width="50"/></a>
+<a href="https://huggingface.co/KraTUZen" target="_blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" height="40" width="41.5"/></a>
 </p>
 
 ---
