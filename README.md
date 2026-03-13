@@ -37,7 +37,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 🔗 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking  
 > 🧠 <b>Agentic-AI-Practice</b> —> Playground for building autonomous, goal-directed AI agents  
 > 👁️ <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials  
-> 🔃 <b>Reinforcement-Learning-Practice</b> —> Various Reinforcement Learning Applicational Mini-Projects to Train Multiple RL Agents in the Many Distinct Environments and Assets   
+> 🔃 <b>Reinforcement-Learning-Practice</b> —> Diverse RL Projects for Training Agents Across Multiple Environments
 > ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and application development  
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering OOP, STL, templates, and recursion  
 > 📊 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
@@ -65,7 +65,8 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
   <a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/ChristianMallma/langchain-and-langgraph-course/raw/main/static/LangChain-logo.svg" alt="LangChain" width="90" height="50"/></a> 
 <a href="https://www.crewai.com/" target="_blank"><img src="https://github.com/crewAIInc/crewAI-tools/raw/main/assets/crewai_logo.png" alt="crewai" width="90" height="45"/></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/></a>
-
+<a href="https://gymnasium.farama.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/105912698?s=200&v=4" alt="gymnasium" width="45" height="45"/></a>
+<a href="https://unity.com/products/machine-learning-agents" target="_blank"><img src="https://raw.githubusercontent.com/Unity-Technologies/ml-agents/main/docs/images/unity-logo.png" alt="unity-mlagents" width="45" height="45"/></a>
 
 ---
 
@@ -86,9 +87,8 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 <!--<a href="https://kratu-gautam-portfolio.vercel.app" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/domain.png" alt="portfolio" height="35" width="45" /></a>
 <a href="https://www.leetcode.com/kratu_gautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="35" width="45" /></a>-->
 <a href="https://www.kaggle.com/kratugautam" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
-<a href="https://hub.docker.com/repositories/kratuzen" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker.svg" alt="docker" height="90" width="90" />
-</a>
+<a href="https://hub.docker.com/repositories/kratuzen" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker.svg" alt="docker" height="90" width="90" /></a>
+<a href="https://huggingface.co/KraTUZen" target="_blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" height="50" width="50"/></a>
 </p>
 
 ---
