@@ -37,7 +37,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 🔗 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking  
 > 🧠 <b>Agentic-AI-Practice</b> —> Playground for building autonomous, goal-directed AI agents  
 > 👁️ <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials  
-> 🔃 <b>Reinforcement-Learning-Practice</b> —> Various Reinforcement Learning Applicational Mini-Projects to Reinforce the Agent in the Environment  
+> 🔃 <b>Reinforcement-Learning-Practice</b> —> Various Reinforcement Learning Applicational Mini-Projects to Train Multiple RL Agents in the Many Distinct Environments and Assets   
 > ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and application development  
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering OOP, STL, templates, and recursion  
 > 📊 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
