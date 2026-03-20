@@ -33,10 +33,11 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 🍔 <b>Foodie-Guru-Agent-Project</b> —> Conversational AI for intelligent fast-food recommendations  
 > 📡 <b>Near-Field-Communication-Project</b> —> NFC detection & Web-NFC experiments with Android/Kotlin  
 > 📈 <b>Machine-Learning-Practice</b> —> Classic ML algorithms & projects in structured Jupyter notebooks  
-> 🧬 <b>Deep-Learning-Practice</b> —> Deep learning resources, NLP, and FreeCodeCamp challenges  
+> 🧬 <b>Deep-Learning-Practice</b> —> Deep learning resources and FreeCodeCamp challenges  
 > 🔗 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking  
 > 🧠 <b>Agentic-AI-Practice</b> —> Playground for building autonomous, goal-directed AI agents  
-> 👁️ <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials  
+> 👁️ <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials
+> 🔠 <b>Natural-Language-Processing-Practice</b> —> Large Language Models and Classical NLP Tasks, Algorithms, FineTuning, Training, Building  
 > 🔃 <b>Reinforcement-Learning-Practice</b> —> Diverse RL Projects for Training Agents Across Multiple Environments
 > ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and application development  
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering OOP, STL, templates, and recursion  
