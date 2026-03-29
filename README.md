@@ -24,7 +24,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 
 <h3 align="left">🧩 My Ecosystem of Repositories:</h3>
 
-> 📚 <b>Wisdom-Primary-Repo</b> —> Learning Hub for Python, SQL, DSA & Data Science  
+> 📚 <b>Wisdom-Primary-Repo</b> —> Learning Hub for Python, SQL, NoSQL, DSA & Data Science  
 > 🌊 <b>Global-Shark-Attack-Project</b> —> Flask ML app predicting shark-attack risk (High/Low)  
 > 💻 <b>Laptop-Cost-Evaluation-Project</b> —> ML-powered web app to predict laptop market prices  
 > 💬 <b>LogicLink-Project</b> —> Conversational AI Chatbot powered by TinyLlama  
@@ -39,10 +39,10 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 👀 <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials    
 > 🆎 <b>Natural-Language-Processing-Practice</b> —> Large Language Models and Classical NLP Training, Algorithms, FineTuning  
 > 🧠 <b>Reinforcement-Learning-Practice</b> —> Diverse RL Projects for Training Agents Across Multiple Environments  
-> ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and application development  
-> 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering OOP, STL, templates, and recursion  
+> ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and Application Development  
+> 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering Cython, OOP, STL, templates, and recursion  
 > 🏆 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
-> 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources (DBMS, Web Tech, etc.)  
+> 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources (DBMS, DTIL, BWT)  
 
 
 ---
