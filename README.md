@@ -24,24 +24,24 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 
 <h3 align="left">🧩 My Ecosystem of Repositories:</h3>
 
-> 🚀 <b>Wisdom-Primary-Repo</b> —> Learning Hub for Python, SQL, DSA & Data Science  
-> 🦈 <b>Global-Shark-Attack-Project</b> —> Flask ML app predicting shark-attack risk (High/Low)  
+> 📚 <b>Wisdom-Primary-Repo</b> —> Learning Hub for Python, SQL, DSA & Data Science  
+> 🌊 <b>Global-Shark-Attack-Project</b> —> Flask ML app predicting shark-attack risk (High/Low)  
 > 💻 <b>Laptop-Cost-Evaluation-Project</b> —> ML-powered web app to predict laptop market prices  
 > 💬 <b>LogicLink-Project</b> —> Conversational AI Chatbot powered by TinyLlama  
 > 📜 <b>Scriptoria-Project</b> —> AI-powered framework for intelligent document parsing & annotation  
-> 🤖 <b>Cryptrizx-Binance-Bot-Project</b> —> Automated Binance trading bot with CLI & GUI support  
+> 🔏 <b>Cryptrizx-Binance-Bot-Project</b> —> Automated Binance trading bot with CLI & GUI support  
 > 🍔 <b>Foodie-Guru-Agent-Project</b> —> Conversational AI for intelligent fast-food recommendations  
 > 📡 <b>Near-Field-Communication-Project</b> —> NFC detection & Web-NFC experiments with Android/Kotlin  
 > 📊 <b>Machine-Learning-Practice</b> —> Classic ML algorithms & projects in structured Jupyter notebooks  
-> 🧬 <b>Deep-Learning-Practice</b> —> Deep learning resources and FreeCodeCamp challenges  
-> 🔗 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking  
-> 🧠 <b>Agentic-AI-Practice</b> —> Playground for building autonomous, goal-directed AI agents  
-> 👁️ <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials  
+> 🔭 <b>Deep-Learning-Practice</b> —> Deep learning resources and FreeCodeCamp challenges  
+> 🔄 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking  
+> 🤖 <b>Agentic-AI-and-Generative-AI-Practice</b> —> Playground for building autonomous, goal-directed AI agents with generative capabilities
+> 👀 <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials  
 > 🆎 <b>Natural-Language-Processing-Practice</b> —> Large Language Models and Classical NLP Training, Algorithms, FineTuning  
-> 🔃 <b>Reinforcement-Learning-Practice</b> —> Diverse RL Projects for Training Agents Across Multiple Environments  
+> 🧠 <b>Reinforcement-Learning-Practice</b> —> Diverse RL Projects for Training Agents Across Multiple Environments  
 > ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and application development  
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering OOP, STL, templates, and recursion  
-> 📊 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
+> 🏆 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
 > 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources (DBMS, Web Tech, etc.)  
 
 
