@@ -34,9 +34,9 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 📡 <b>Near-Field-Communication-Project</b> —> NFC detection & Web-NFC experiments with Android/Kotlin  
 > 📊 <b>Machine-Learning-Practice</b> —> Classic ML algorithms & projects in structured Jupyter notebooks  
 > 🔭 <b>Deep-Learning-Practice</b> —> Deep learning resources and FreeCodeCamp challenges  
-> 🔄 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking  
-> 🤖 <b>Agentic-AI-and-Generative-AI-Practice</b> —> Playground for building autonomous, goal-directed AI agents with generative capabilities
-> 👀 <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials  
+> 🔄 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking    
+> 🤖 <b>Agentic-AI-and-Generative-AI-Practice</b> —> Playground for building Autonomous AI agents with Generative capabilities  
+> 👀 <b>Computer-Vision-Practice</b> —> Various Computer Vision Applicational Mini-Projects and OpenCV Tutorials    
 > 🆎 <b>Natural-Language-Processing-Practice</b> —> Large Language Models and Classical NLP Training, Algorithms, FineTuning  
 > 🧠 <b>Reinforcement-Learning-Practice</b> —> Diverse RL Projects for Training Agents Across Multiple Environments  
 > ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and application development  
@@ -62,7 +62,6 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
   <a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="45" height="45"/></a> 
   <a href="https://dvc.org/" target="_blank"><img src="https://avatars.githubusercontent.com/u/37219282?s=200&v=4" alt="dvc" width="45" height="45"/></a> 
   <a href="https://mlflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/mlflow/mlflow/master/assets/logo.svg" alt="mlflow" width="70" height="35"/></a> 
-  <a href="https://www.dagshub.com/" target="_blank"><img src="https://cdn.brandfetch.io/id0ycwXVhg/w/300/h/300/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758618528632" alt="dagshub" width="45" height="45"/></a> 
   <a href="https://www.langchain.com/" target="_blank"><img src="https://github.com/ChristianMallma/langchain-and-langgraph-course/raw/main/static/LangChain-logo.svg" alt="LangChain" width="90" height="50"/></a> 
 <a href="https://www.crewai.com/" target="_blank"><img src="https://github.com/crewAIInc/crewAI-tools/raw/main/assets/crewai_logo.png" alt="crewai" width="90" height="45"/></a>
 <a href="https://opencv.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="45" height="45"/></a>
@@ -90,6 +89,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 <a href="https://www.kaggle.com/kratugautam" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="35" width="45" /></a>
 <a href="https://hub.docker.com/repositories/kratuzen" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker.svg" alt="docker" height="90" width="90" /></a>
 <a href="https://huggingface.co/KraTUZen" target="_blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" height="40" width="41.5"/></a>
+<a href="https://dagshub.com/kratugautam99/MLOps-FastAPI-Practice" target="_blank"><img align="center" src="https://cdn.brandfetch.io/id0ycwXVhg/w/300/h/300/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1758618528632" alt="dagshub" height="50" width="50"/> </a>
 </p>
 
 ---
