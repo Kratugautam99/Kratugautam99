@@ -19,7 +19,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 <!-- Left-side About Me (markdown + HTML works in GitHub README) -->
 <h3 align="left">👨‍💻 About Me:</h3>
 
-- 📱 **Building Multi-Agent and Reinforcement-Learning powered systems**  
+- 📱 **Building Multi-Agent and RL powered systems**  
 - 🌱 **Exploring LLMs, MLOps, and Multi-Modal AI Architectures**  
 - 💡 **Passionate about AI innovation, Data-driven Automation, and Cognitive Agents**  
 - 💪 **Strong foundation in ML, DL, and Data Science**  
