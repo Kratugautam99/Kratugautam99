@@ -42,7 +42,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and Application Development  
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering Cython, OOP, STL, templates, and recursion  
 > 🏆 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
-> 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources (DBMS, DTIL, BWT)  
+> 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources [DBMS, DTIL, BWT, FSD]  
 
 
 ---
