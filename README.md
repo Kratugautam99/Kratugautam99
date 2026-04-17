@@ -12,8 +12,8 @@ I build AI-driven applications, from conversational agents to MLOps pipelines â€
 <!-- Right-side image (float) -->
 <img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif"
      alt="Coding GIF"
-     width="420"
-     height="280"
+     width="250"
+     height="150"
      align="right">
 
 <!-- Left-side About Me (markdown + HTML works in GitHub README) -->
