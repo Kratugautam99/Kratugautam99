@@ -138,7 +138,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines â€
     </td>
     <td>
       <a href="https://hub.docker.com/repositories/kratuzen" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker.svg" alt="docker" height="42" width="45" />
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker.svg" alt="docker" height="42" width="90" />
       </a>
     </td>
     <td>
