@@ -12,7 +12,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines â€
 <!-- Right-side image (float) -->
 <img src="https://miro.medium.com/max/2800/1*BU7f02LeQeELztqxa8eCmw.gif"
      alt="Coding GIF"
-     width="250"
+     width="300"
      height="150"
      align="right">
 
