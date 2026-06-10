@@ -45,6 +45,8 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 🧠 <b>Reinforcement-Learning-Practice</b> —> Diverse RL Projects for Training Agents Across Multiple Environments  
 > ☕ <b>Java-Learning</b> —> Core Java concepts for DSA, OOP, and Application Development  
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering Cython, OOP, STL, templates, and recursion  
+> 🍊 <b>JavaScript-and-TypeScript-Learning</b> —> JavaScript and TypeScript along with their practical applications in frameworks  
+> 🎨 <b>HTML-and-CSS-Learning</b> —>  HTML, CSS, and modern styling frameworks like Tailwind CSS  
 > 🏆 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
 > 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources [DBMS, DTIL, BWT, FSD]  
 
