@@ -47,7 +47,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering Cython, OOP, STL, templates, and recursion  
 > 🍊 <b>JavaScript-and-TypeScript-Learning</b> —> JavaScript and TypeScript along with their practical applications in frameworks  
 > 🎨 <b>HTML-and-CSS-Learning</b> —>  HTML, CSS, and modern styling frameworks like Tailwind CSS  
-> 🎱 <b>n8n Automations</b> —> Custom n8n Workflows and Automation Scripts, designed to Streamline Repetitive tasks with various Integrations.  
+> 🎱 <b>n8n-Automations</b> —> Custom n8n Workflows and Automation Scripts, designed to Streamline Repetitive tasks with various Integrations.  
 > 🏆 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects  
 > 🎓 <b>Engineering-Acad-Works</b> —> Academic projects & coursework resources [DBMS, DTIL, BWT, FSD]  
 
