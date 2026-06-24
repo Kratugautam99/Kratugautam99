@@ -37,8 +37,8 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 🍔 <b>Foodie-Guru-Agent-Project</b> —> Conversational AI for intelligent fast-food recommendations  
 > 📡 <b>Near-Field-Communication-Project</b> —> NFC detection & Web-NFC experiments with Android/Kotlin  
 > 💼 <b>JobOps-Project</b> —> Job Application Full-Stack Portal with Application Tracking and User Profile Building  
-> 🌍 <b>WanderSync-Project</b> —> WanderSync helps users plan trips, manage itineraries, track expenses, add members, and store reservations  
-> 🪙 <b>ArthaSync-Project</b> —> AI operating system designed for Indian retail SMEs with Invoice Processor, Database Intelligence, Operations AI, Marketing Intelligence  
+> 🌍 <b>WanderSync-Project</b> —> WanderSync helps users plan trips, manage itineraries/expenses, store reservations  
+> 🪙 <b>ArthaSync-Project</b> —> AI OS designed for Indian Retail SMEs with Invoice Processor, DB/Market/Operations Intelligence  
 > 📊 <b>Machine-Learning-Practice</b> —> Classic ML algorithms & projects in structured Jupyter notebooks  
 > 🔭 <b>Deep-Learning-Practice</b> —> Deep learning resources and FreeCodeCamp challenges  
 > 🔄 <b>MLOps-Dagshub-Practice</b> —> Streamlined MLOps pipeline with DagsHub for versioning & tracking    
@@ -50,7 +50,7 @@ I build AI-driven applications, from conversational agents to MLOps pipelines �
 > 🖥️ <b>CPP-Learning</b> —> In-depth C++ repo covering Cython, OOP, STL, templates, and recursion  
 > 🍊 <b>JavaScript-and-TypeScript-Learning</b> —> JavaScript and TypeScript along with their practical applications in frameworks  
 > 🎨 <b>HTML-and-CSS-Learning</b> —>  HTML, CSS, and modern styling frameworks like Tailwind CSS  
-> 🎱 <b>n8n-Automations</b> —> Custom n8n Workflows and Automation Scripts, designed to Streamline Repetitive tasks with various Integrations.  
+> 🎱 <b>n8n-Automations</b> —> Custom n8n Workflows and Automation Scripts, designed to Streamline Repetitive tasks  
 > 🏆 <b>Kaggle-Works</b> —> Organized workflow for Kaggle competitions & tabular ML projects   
 
 
